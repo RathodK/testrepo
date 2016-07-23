@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("test comment");
+        MyTestClass mytest  = new MyTestClass();
+        mytest.testMethod();
     }
 }
