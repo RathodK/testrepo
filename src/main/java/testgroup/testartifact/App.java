@@ -1,4 +1,5 @@
 package testgroup.testartifact;
+// my first commit
 
 /**
  * Hello world!
