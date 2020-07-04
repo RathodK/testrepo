@@ -1,6 +1,6 @@
 package testgroup.testartifact;
 // my first commit
-
+// my second changes
 /**
  * Hello world!
  *
